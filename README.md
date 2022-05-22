@@ -28,8 +28,12 @@ In the original analysis, Thomas High School had a 91% passing rate. After remov
 Before removing the grades for 9th grade students at Thomas High School, the school appeared to be doing tremendously well on state-standardized testing. However, once the scores were removed because of academic dishonesty the score for Thomas High School dropped to 65% from the original 91% passing rate.
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+When reviewing how the schools within the district compare initially Thomas High School was in 2nd place within the PyCity district. Their overall passing percentage scored at 90.948012. Once the 9th grade scores were removed from the percentage their overall passing percentage dropped to 90.630324. The change did not affect their status as a whole and still appear to be the 2nd top school within the PyCity district.
+**Original Analysis**
+![Original Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/08c964f9e7e53c377f29cbecd696603c2f1525e3/Resources/original_top_school.png)
 
-
+**Adjusted Analysis**
+![Adjusted Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/08c964f9e7e53c377f29cbecd696603c2f1525e3/Resources/adjusted_top_school.png)
 ### 4. How does replacing the ninth-grade scores affect the following:
 Prior to the adjustment, Thomas High School had an average math score of 83.6 and an average reading score of 83.7 for 9th grade students. Since the discovery of academic dishonesty these scores have been removed to preserve the accuracy of the other school’s data. Since these grades are no longer counted for the school their performance to other schools can no longer be evaluated for the 9th grade class.
 
@@ -56,3 +60,4 @@ Prior to the adjustment, Thomas High School had an average math score of 83.6 an
 - scores by school type
 
 ## Summary
+
