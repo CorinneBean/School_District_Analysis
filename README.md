@@ -6,24 +6,23 @@ The initial school district analysis was performed to evaluate the standardized 
 ## Results
 1. How is the district summary affected?
 
-```
 The district summary was affected because the 9th grade students at Thomas High School reading and math scores turned to null. This would affect the overall average scores for the district since these scores are now no longer included. The student count was not affected since that number is found by counting each unique Student ID.
-```
-# Original Analysis
 
-# Adjusted Analysis
+### Original Analysis
 
-```
+### Adjusted Analysis
+
+
 When the two charts are compared, you can see that removing the scores of the 9th graders at Thomas High School had a minimal effect on the district summary data set. The change appears to be less than 1%.
-```
+
 
 2. How is the school summary affected?
 ```
 In the original analysis, Thomas High School had a 91% passing rate. After removing these scores, the testing data was adjusted accordingly. 
 ```
-# Original Analysis
+### Original Analysis
 
-# Adjusted Analysis
+#### Adjusted Analysis
 ```
 Before removing the grades for 9th grade students at Thomas High School, the school appeared to be doing tremendously well on state-standardized testing. However, once the scores were removed because of academic dishonesty the score for Thomas High School dropped to 65% from the original 91% passing rate.
 ```
