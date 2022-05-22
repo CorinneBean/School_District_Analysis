@@ -9,10 +9,10 @@ The initial school district analysis was performed to evaluate the standardized 
 The district summary was affected because the 9th grade students at Thomas High School reading and math scores turned to null. This would affect the overall average scores for the district since these scores are now no longer included. The student count was not affected since that number is found by counting each unique Student ID.
 
 ### Original Analysis
-Resources/Original District Summary.png
+https://github.com/CorinneBean/School_District_Analysis/blob/3a1cc2617144300b1d0e0265433be7f5d7afd0e7/Resources/Original%20District%20Summary.png
 
 ### Adjusted Analysis
-Resources/Adjusted District Summary.png
+https://github.com/CorinneBean/School_District_Analysis/blob/3a1cc2617144300b1d0e0265433be7f5d7afd0e7/Resources/Adjusted%20District%20Summary.png
 
 When the two charts are compared, you can see that removing the scores of the 9th graders at Thomas High School had a minimal effect on the district summary data set. The change appears to be less than 1%.
 
