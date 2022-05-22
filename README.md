@@ -36,6 +36,7 @@ The initial school district analysis was performed to evaluate the standardized 
 ![Original Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_math_by_school.png)
 
 >Original Reading
+
 ![Original Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_reading_by_school.png)
 
 #### Adjusted Analysis
