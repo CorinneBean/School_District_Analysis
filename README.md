@@ -29,6 +29,7 @@ Before removing the grades for 9th grade students at Thomas High School, the sch
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 When reviewing how the schools within the district compare initially Thomas High School was in 2nd place within the PyCity district. Their overall passing percentage scored at 90.948012. Once the 9th grade scores were removed from the percentage their overall passing percentage dropped to 90.630324. The change did not affect their status as a whole and still appear to be the 2nd top school within the PyCity district.
+
 **Original Analysis**
 ![Original Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/08c964f9e7e53c377f29cbecd696603c2f1525e3/Resources/original_top_school.png)
 
