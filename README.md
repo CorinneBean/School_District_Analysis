@@ -29,7 +29,6 @@ Before removing the grades for 9th grade students at Thomas High School, the sch
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 When reviewing how the schools within the district compare initially Thomas High School was in 2nd place within the PyCity district. Their overall passing percentage scored at 90.948012. Once the 9th grade scores were removed from the percentage their overall passing percentage dropped to 90.630324. The change did not affect their status as a whole and still appear to be the 2nd top school within the PyCity district.
-
 **Original Analysis**
 ![Original Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/08c964f9e7e53c377f29cbecd696603c2f1525e3/Resources/original_top_school.png)
 
@@ -56,9 +55,29 @@ Prior to the adjustment, Thomas High School had an average math score of 83.6 an
 
 ![Adjusted Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_reading_by_school.png)
 
-- Scores by school spending
-- scores by school size
-- scores by school type
+Thomas High School falls within the spending range (per student) of $630-644. When we evaluate how the academic dishonesty affected the school based on their spending, we find that the incident had minimal impact on the overall scores for the school.
+**Original Analysis**
+![Original Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/03bcdcaf308c837aaeccd6afadb0b148c6570a17/Resources/original_scores_by_spending.png)
+
+**Adjusted Analysis**
+![Adjusted Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/03bcdcaf308c837aaeccd6afadb0b148c6570a17/Resources/adjustedl_scores_by_spending.png)
+
+Thomas High School falls within the school size of Medium (1000-1999). When we evaluate how the academic dishonesty affected the school based on their size, we find that the incident had minimal impact on the overall scores for the school.
+
+**Original Analysis**
+![Original Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/f223123881050e4b491f2200769b131bf3b7c161/Resources/original_score_by_size.png)
+
+**Adjusted Analysis**
+![Adjusted Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/f223123881050e4b491f2200769b131bf3b7c161/Resources/adjusted_score_by_size.png)
+
+Thomas High School is a charter school. When we evaluate how the academic dishonesty affected the school based on type, we find that the incident had minimal impact on the overall scores for the school.
+
+**Original Analysis**
+![Original Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/f223123881050e4b491f2200769b131bf3b7c161/Resources/original_scores_by_type.png)
+
+**Adjusted Analysis**
+![Adjusted Analysis]( https://github.com/CorinneBean/School_District_Analysis/blob/f223123881050e4b491f2200769b131bf3b7c161/Resources/adjusted_scores_by_type.png)
 
 ## Summary
 
+Based on the analysis it is easy to conclude that an impact would be noticeable when you look at each school’s performance individually. This is where we saw the greatest change from a passing rate dropping from 91% to 65%. However, when you compare the numbers for the district you can see that the impact of the academic dishonesty is very minimal. The 9th grade scores which were involved in this incident have been changed to NaN which will no longer calculate to the final totaling of the school district’s performance. 
