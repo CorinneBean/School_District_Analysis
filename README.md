@@ -31,29 +31,29 @@ The initial school district analysis was performed to evaluate the standardized 
 
 
 ### 4. How does replacing the ninth-grade scores affect the following:
-	- Math and reading scores by grade
-	>Prior to the adjustment, Thomas High School had an average math score of 83.6 and an average reading score of 83.7 for 9th grade students. Since the discovery of academic dishonesty these scores have been removed to preserve the accuracy of the other school’s data. Since these grades are no longer counted for the school their performance to other schools can no longer be evaluated for the 9th grade class.
+- Math and reading scores by grade
+>Prior to the adjustment, Thomas High School had an average math score of 83.6 and an average reading score of 83.7 for 9th grade students. Since the discovery of academic dishonesty these scores have been removed to preserve the accuracy of the other school’s data. Since these grades are no longer counted for the school their performance to other schools can no longer be evaluated for the 9th grade class.
 
-	**Original Analysis**
-	>Original Math 
+**Original Analysis**
+>Original Math 
 
-	![Original Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_math_by_school.png)
+![Original Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_math_by_school.png)
 
-	>Original Reading
+>Original Reading
 
-	![Original Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_reading_by_school.png)
+![Original Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_reading_by_school.png)
 
-	**Adjusted Analysis**
-	>Adjusted Math
+**Adjusted Analysis**
+>Adjusted Math
 
-	![Adjusted Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_math_by_school.png)
+![Adjusted Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_math_by_school.png)
 
-	>Adjusted Reading
+>Adjusted Reading
 
-	![Adjusted Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_reading_by_school.png)
+![Adjusted Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_reading_by_school.png)
 
-	- Scores by school spending
-	- scores by school size
-	- scores by school type
+- Scores by school spending
+- scores by school size
+- scores by school type
 
 ## Summary
