@@ -30,7 +30,7 @@ The initial school district analysis was performed to evaluate the standardized 
 **3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 >Prior to the adjustment, Thomas High School had an average math score of 83.6 and an average reading score of 83.7 for 9th grade students. Since the discovery of academic dishonesty these scores have been removed to preserve the accuracy of the other school’s data. Since these grades are no longer counted for the school their performance to other schools can no longer be evaluated for the 9th grade class.
 
-### Original Analysis
+**Original Analysis**
 >Original Math 
 
 ![Original Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_math_by_school.png)
@@ -39,8 +39,13 @@ The initial school district analysis was performed to evaluate the standardized 
 
 ![Original Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/original_reading_by_school.png)
 
-#### Adjusted Analysis
+**Adjusted Analysis**
+>Adjusted Math
+
 ![Adjusted Math]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_math_by_school.png)
+
+>Adjusted Reading
+
 ![Adjusted Reading]( https://github.com/CorinneBean/School_District_Analysis/blob/93b0ae021b3c3d0050cb5552d080613af8c2aa35/Resources/adjusted_reading_by_school.png)
 
 **4. How does replacing the ninth-grade scores affect the following:**
